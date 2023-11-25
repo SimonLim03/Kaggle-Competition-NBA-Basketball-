@@ -4,10 +4,10 @@
 Name: Simon Lim
 
 ## Description
-The NBA draft is an annual event in which teams select players from their American colleges as well as international professional leagues to join their rosters. 
+- The NBA draft is an annual event in which teams select players from their American colleges as well as international professional leagues to join their rosters. 
 Moving to the NBA league is a big deal for any basketball player.
 In this regard, the objective of the project is build a model that will predict if a college basketball player will be drafted to join the NBA league based on his statistics for the current season.
-Data Source: https://www.kaggle.com/t/1f00dbe0406240ec85e3ed01b190551a
+- Data Source: https://www.kaggle.com/t/1f00dbe0406240ec85e3ed01b190551a
 ![image](https://github.com/SimonLim03/Kaggle-Competition-NBA-Basketball-/assets/150989115/5b00fe0e-e919-428a-b265-a067f58816f4)
 
 
