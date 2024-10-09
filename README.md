@@ -1,4 +1,4 @@
-# Kaggle Competition (NBA Draft)
+# NBA Basketball Player Prediction (Kaggle Competition)
 
 ## Author
 Name: Simon Lim
